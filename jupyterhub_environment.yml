@@ -59,6 +59,7 @@ dependencies:
   - geonum
   - pip
   - pyaerocom
+  - pyresample
   - pip:
       - dask_labextension
       - ipydatawidgets
