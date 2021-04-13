@@ -6,13 +6,13 @@ channels:
   - defaults
 
 dependencies:
-  - numpy 
-  - xarray 
-  - pandas 
-  - cartopy 
-  - matplotlib 
-  - seaborn 
-  - geopy 
+  - numpy
+  - xarray
+  - pandas
+  - cartopy
+  - matplotlib
+  - seaborn
+  - geopy
   - basemap
   - netcdf4
   - cis
@@ -41,10 +41,10 @@ dependencies:
   - pythreejs
   - bqplot
   - psyplot
-  - psy-maps 
-  - psyplot-gui 
-  - psy-reg 
-  - cdsapi 
+  - psy-maps
+  - psyplot-gui
+  - psy-reg
+  - cdsapi
   - folium
   - basemap-data-hires
   - plotly
@@ -67,3 +67,5 @@ dependencies:
       - geojsoncontour
       - nbgitpuller
       - pysplit
+      - esmpy==7.1.0
+      - xesmf==0.2.1
